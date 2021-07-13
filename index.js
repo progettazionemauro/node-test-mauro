@@ -10,3 +10,4 @@ fs.readFile('testo.txt', 'utf8', (error,data) => {
 // Git Clone: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository
 // Install the latest version of Git: https://adrianba.net/2021/03/09/ubuntu-latest-git/
 // Insert you username: https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git
+// Add project Locally: https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line
