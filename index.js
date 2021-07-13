@@ -6,7 +6,7 @@ fs.readFile('testo.txt', 'utf8', (error,data) => {
 		}
 })
 
-// Questo il rif al tutorial: https://dev.to/w3tsa/node-js-crash-course-2021-2n96
+// Questo il rif al tutorial (devo iniziare string and buffers): https://dev.to/w3tsa/node-js-crash-course-2021-2n96
 // Git Clone: https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/cloning-a-repository-from-github/cloning-a-repository
 // Install the latest version of Git: https://adrianba.net/2021/03/09/ubuntu-latest-git/
 // Insert you username: https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git
@@ -15,9 +15,11 @@ fs.readFile('testo.txt', 'utf8', (error,data) => {
 
 
 
-// Flusso Git
+// Flusso 
+// git status (verifica lo stato)
 // 1) git add .
 // 2) git comit -m "...."
 // 3) git remote add origin  <REMOTE_URL> 
 // 4) git remote -v (Verifies the new remote URL)
 // 5) $ git push origin main (Pushes the changes in your local repository up to the remote repository you specified as the origin)
+
