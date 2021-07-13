@@ -1,0 +1,282 @@
+﻿PIANO DI AUDIT
+	IT-CER-F-016
+Rev 01 del 18/12/2015
+	
+
+
+
+Organizzazione:
+	CIUCCI GIAN LUCA IMPRESA INDIVIDUALE
+
+
+Att.ne: sign. Gianluca Ciucci
+
+
+	RIF. Bureau Veritas N.
+	ISO 45001 -  FLEX #: 9418981
+ISO 14001  -  FLEX #: 9418965
+
+
+	Norma/e di Riferimento:
+	ISO 45001:2018 
+ISO 14001:2015 
+	Referente del cliente
+	Gianluca Ciucci - em.ciucci@alice.it
+	Tipo verifica 
+(IA, MA, VIR, VIP, altro)
+	VIR 45K/14K
+	Data/e di Verifica:
+	ISO 14001 - VIR -  14  luglio 2021
+
+
+ISO 45001 - VIR -  14 luglio 2021
+	Modalità svolgimento (on site / remoto)
+	IN CAMPO AL 100%
+	Luoghi della verifica 
+(sede e altri siti)
+	Sede Operativa: S.S. Umbro Casentinese, Km 4.500 Montefiascone (VT)
+Sito operativo  da concordare
+	Team Leader
+	Ing. M. BASSOTTI – (mauro.bassotti@.bureauveritas.com – 3357607569) - 
+14k/ 45K
+
+
+	SIGLA 
+	BAS
+
+
+	TM
+	arch. A. D’Onofrio
+	DOA
+	Acronimi utilizzati
+
+
+	E: Environment - Ambiente
+HS: Salute e Sicurezza
+
+
+Acronimi Utilizzati per l’audit in remoto:
+
+
+AiR: Audit in Remoto 
+ARD: Accesso remoto documentazione
+VC: Videoconferenza
+AC: Audio Conferenza
+WM: webcam mobile (specialmente nelle aree di produzione)
+	Nota
+(NON APPLICABILE SE IN PRESENZA)
+	Audit effettuato totalmente in modalità remota per emergenza epidemiologica da COVID-19
+
+
+NB: Indicazioni specifiche alla gestione delle attività da remoto 
+Le infrastrutture utilizzabili che in generale danno un buon riscontro in termini di efficacia della gestione dell’audit sono nell’ordine:
+1. Microsoft Teams
+2. Google Meets
+3. Zoom
+Sono possibili altri mezzi che tuttavia non danno il risultato ottimale.
+Si chiede all’azienda di indicare in tempi utili l’infrastruttura utilizzata al fine di poter coordinare le attività ed aprire correttamente la sessione (da indicare a fondo pagina). A tal fine si richiede, qualche giorno prima dell’audit, la disponibilità per una prova di collegamento per testare il corretto funzionamento del sistema.
+Si potrà procedere con Remote Audit laddove sia possibile attivare un collegamento da remoto, che garantisca medesima efficacia di un audit on site e possibilità di gestire le attività di campionamento ed accesso a tutti i processi oggetto del programma di audit.
+	SCOPO
+	Riparazione di motori elettrici, generatori ed elettropompe (attraverso le attività di estrazione del motore, verifica e misurazione dell'avvolgimento, verifica della parte meccanica quali cuscinetti e tenute meccaniche ed idrauliche). Manutenzione di impianti elettrici, di depurazione, di sollevamento acque (attraverso lo smontaggio e rimontaggio di pompe e motori) e montaggio di tratti di collettori fognari ed idrici in polietilene)
+Codice: 
+E18A        Industrial Machinery
+E19A        Manuf. of electrical equipment
+E28B        Plants Installation
+
+
+	DIPENDENTI
+	5
+	ACCREDITAMENTO
+	UKAS
+	FOCUS SU ASPETTI AMBIENTALI
+	Gestione rifiuti
+	FOCUS SU RISCHI SSL
+	Interferenza, rumore e elettrocuzione
+	
+
+
+
+
+
+Attività del: 14.07.2021 – BAS / DOA
+SITO 1 
+	🕐
+	Processo
+	Aree/siti verificate/i
+	Modalità
+	Standard(s)
+	Auditor
+	09:00
+	Riunione iniziale: 
+presentazione del team (relativo anche al giorno successivo), modalità dell’audit, conferma del piano di audit, definizione/conferma scopo di certificazione.
+DEFINIZIONE DELLE MODALITÀ DI CAMPIONAMENTO 
+
+
+	DATORE DI LAVORO + TEAM HSE + MEDICO COMPETENTE + RLS
+
+
+	
+
+	
+
+	BAS / DOA
+	09:30
+	ANALISI DEI RISCHI E DELLE OPPORTUNITÀ’
+GESTIONE DELLE PERFORMANCE, NC, AC, 
+GESTIONE COVID-19 - CHANGE MANAGEMENT
+AP, NEAR MISSES ANALISI DEGLI INFORTUNI
+KPI - PERFORMANCE
+OBIETTIVI e PIANI DI MIGLIORAMENTO
+RIESAME DELLA DIREZIONE
+AUDIT INTERN
+
+
+	TEAM QHSE
+	
+
+	14K/45K
+	BAS
+	09:30
+	COMUNICAZIONI
+Intervista al medico competente
+Verifica protocollo sanitario e relazione anonima collettiva
+Intervista all’RLS
+Verifica della riunione periodica
+Verifica dei piani di emergenza e delle simulazioni
+	MC / RLS
+
+
+	
+
+	45K
+	DOA
+	11:00
+	FORMAZIONE - RUOLI E RESPONSABILITÀ’
+
+
+	
+
+	
+
+	14K/45K
+	DOA
+	13.00
+	PAUSA PRANZO
+	--
+	
+
+	--
+	--
+	14:00
+	CONTROLLI OPERATIVI IN FASE DI GESTIONE DELLE ATTIVITÀ REALIZZATIVE:
+
+
+VERIFICA DI UNA COMMESSA RELATIVA ALLA: Riparazione di motori elettri
+
+
+
+
+Verifica degli Aspetti Salute e Sicurezza legati alla specifica commessa
+
+
+Verifica degli aspetti ambientali e del ciclo di vita legati alla specifica commessa
+                                                           
+	TEAM HSE
+	
+
+	14K/45k
+	BAS 
+	15:00
+	VALUTAZIONE DELLA CONFORMITÀ’  LEGISLATIVA AMBIENTALE 
+	TEAM QHSE + RSPP
+	
+
+	14K
+	BAS
+	14:00
+	VALUTAZIONE DELLA CONFORMITÀ’  LEGISLATIVA SSL 
+	
+
+	
+
+	45k
+	DOA
+	16:30
+	RIUNIONE INTERNA E PREPARAZIONE DEL RAPPORTO FINALE
+	
+
+	
+
+	
+
+	BAS / DOA
+	17:30
+	RIUNIONE DI CHIUSURA
+	DIREZIONE + TEAM HSE + MC + RLS
+	
+
+	14K/45K
+	BAS / DOA
+	
+
+
+
+
+
+
+
+Il piano ha natura indicativa e potrà essere modificato in sede di riunione iniziale in base alle esigenze e disponibilità aziendali e del team di verifica.
+	Note (non applicabile per audit in remoto): 
+Si prega cortesemente di predisporre tutte le autorizzazioni necessarie per l'accesso alla/e Vostra/e Sede/i e la disponibilità di un ufficio per le riunioni interne al gruppo di Verifica.
+	Si prega inoltre di preparare una copia di:
+* organigramma nominativo
+* visura camerale
+* elenco documenti aziendali  
+* planimetrie
+In relazione alla specificità dell’audit in remoto:
+* potranno essere acquisiti documenti per approfondimenti sulle evidenze oggettive dell’audit
+* si richiede la possibilità di verificare gli ambienti ove vengono erogati i processi produttivi e/o di erogazione dei servizi (uffici, reparti di produzione, magazzini, locali tecnici, eventuali aree esterne) tramite collegamento video (es. videochiamata con smartphone, tablet).
+	
+
+
+
+
+
+Indicazioni specifiche per l’effettuazione di audit in remoto:
+
+
+1. Il piano di audit viene previamente inviato in formato editabile al fine di inserire nella colonna “Aree/siti verificate
+Personale / referenti” i dati aziendali. Vi preghiamo di porre la massima attenzione all’inserimento corretto di questi dati
+
+
+2. l’azienda dichiara che l’infrastruttura utilizzata per l’audit in remoto sarà:
+
+
+   
+
+
+3. Nel caso di siti produttivi e/o cantieri l’azienda utilizzerà i seguenti mezzi di collegamento in remoto (da indicare soltanto se differenti da quanto sopra indicato)
+
+
+
+
+
+
+	Firma per Accettazione 
+ 
+
+
+	
+
+
+
+
+
+
+
+Note a fine audit: 
+In fase iniziale ed intermedia si è discusso pianificando una call separata  In fase iniziale ed in una call separata effettuata via MEETS con Valentino Cimaroli / Claudio Ardovini
+
+
+Il MC dott. Giancarlo Ciprietti
+Copia controllata del presente documento è solamente quella elettronica disponibile ”on-line” sulla rete aziendale.         di
