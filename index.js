@@ -12,6 +12,7 @@ fs.readFile('testo.txt', 'utf8', (error,data) => {
 // Insert you username: https://docs.github.com/en/get-started/getting-started-with-git/setting-your-username-in-git
 // Add project Locally: https://docs.github.com/en/github/importing-your-projects-to-github/importing-source-code-to-github/adding-an-existing-project-to-github-using-the-command-line
 // Spiegazione dei termini Git https://medium.com/mindorks/what-is-git-commit-push-pull-log-aliases-fetch-config-clone-56bc52a3601c
+// per creare una nuova branch vedere questo stupendo TUT: https://forum.freecodecamp.org/t/push-a-new-local-branch-to-a-remote-git-repository-and-track-it-too/13222
 
 
 
@@ -21,7 +22,9 @@ fs.readFile('testo.txt', 'utf8', (error,data) => {
 // 2) git comit -m "...."
 // 3) git remote add origin  <REMOTE_URL> 
 // 4) git remote -v (Verifies the new remote URL)
-// 5) $ git push origin main (Pushes the changes in your local repository up to the remote repository you specified as the origin)
-// 6) vedere queto tu per il push su un'altra repository
+// 5) git push origin main (Pushes the changes in your local repository up to the remote repository you specified as the origin)
+// 6) git checkout -b <NOME NUOVA BRANCH>  crea una nuova branch effettuando contemporaneamente il checkot
+// 7) git push -u origin <NOME NUOVA BRANCH> effettua il push sulla nuova branch
+// 8) git branch -m OLD-BRANCH-NAME NEW-BRANCH-NAME  rename branch
 
 
