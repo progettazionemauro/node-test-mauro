@@ -22,4 +22,6 @@ fs.readFile('testo.txt', 'utf8', (error,data) => {
 // 3) git remote add origin  <REMOTE_URL> 
 // 4) git remote -v (Verifies the new remote URL)
 // 5) $ git push origin main (Pushes the changes in your local repository up to the remote repository you specified as the origin)
+// 6) vedere queto tu per il push su un'altra repository
+
 
